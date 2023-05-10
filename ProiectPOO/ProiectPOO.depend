@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1683677209 source:c:\users\lburlacu\desktop\faculta\poo proiect\proiectpoo\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<carte.h>
+
+1683677268 c:\users\lburlacu\desktop\faculta\poo proiect\proiectpoo\include\carte.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1683677226 source:c:\users\lburlacu\desktop\faculta\poo proiect\proiectpoo\src\carte.cpp
+	"carte.h"
+
